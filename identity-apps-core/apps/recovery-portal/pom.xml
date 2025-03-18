@@ -255,7 +255,7 @@
         <dependency>
             <groupId>org.wso2.identity.apps</groupId>
             <artifactId>org.wso2.identity.apps.taglibs.layout.controller</artifactId>
-            <version>1.4.34</version>
+            <version>1.6.378</version>
         </dependency>
     </dependencies>
 
